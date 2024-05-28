@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##I'm trying to navigate my way through life by learning and maximizing the knowledge I attain!
+I'm trying to navigate my way through life by learning and maximizing the knowledge I attain!
 <!--
 **VladMilize/VladMilize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
