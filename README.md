@@ -1,16 +1,44 @@
+## Exercise 01 -- Success!
+Check out my Personal Github account: [Vlad Milize](https://github.com/VladMilize)
+
 ## Hi there 👋
 
 I'm trying to navigate my way through life by learning and maximizing the knowledge I attain!
 
-Edit # 1 for CMSC 100 hehe:
-a. What people should know about me
-Talking about oneself, I feel like we are by default even in the back of our minds in a sad state of mind. Negative emotions are just the first ones to squeeze out of our brainpipes and it depends on every individual how much we clog our let flood within us. On a positive note, I spout the most random, weird, and lengthy stuff when I'm fueled by strong caffeine (such as when I wrote this LOL).
-b. Personal Projects
-None as of now but I am very much interested in creating some type of personal application that have personal features TBD via flutter - I enjoyed CMSC 23 even if it was sometimes tedious.
-c. Known programming languages
-Flutter, C, Python, Java .......... Know =/= Good >.<
-d. Hobbies
-I love swimming, tinkering with my own hardware/electronics, and am an enjoyer of browser extensions. I really forget my actual hobbies and interests when asked, I'll just edit in the future but yeah that's it I think. Oh if I had unlimited money I would probably be collecting shoes, I love shoes -- especially comfy ones.
+---
+
+### 💡 What People Should Know About Me
+
+I believe that deep down, we all carry a little sadness with us, even if it's hidden. Negative emotions tend to bubble up first, and it's up to each person to decide how much they let that flood their mind. On a lighter note, I tend to ramble on about the most random things when I'm powered by caffeine (as you can probably tell from this 😅).
+
+---
+
+### 🛠️ Personal Projects
+
+None for now, but I'm definitely interested in building something personal with **Flutter**—perhaps a feature-rich app that reflects my interests. CMSC 23 was fun (even if tedious at times), and I'd love to apply what I learned!
+
+---
+
+### 💻 Known Programming Languages
+
+- **Flutter**
+- **C**
+- **Python**
+- **Java**
+
+_**Disclaimer:** Knowing ≠ being good at it 🤷‍♂️_
+
+---
+
+### 🎯 Hobbies
+
+- 🏊‍♂️ Swimming
+- 🔧 Tinkering with hardware/electronics
+- 🌐 Exploring browser extensions
+
+I tend to forget my hobbies when asked, so I'll update this as I remember more. But one thing's for sure—if I had unlimited money, I'd definitely be collecting shoes (especially comfy ones 🥿).
+
+---
 
 <!--
 **VladMilize/VladMilize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
