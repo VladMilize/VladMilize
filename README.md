@@ -1,4 +1,3 @@
-## Exercise 01 -- Success!
 Check out my Personal Github account: [Vlad Milize](https://github.com/VladMilize)
 
 ## Hi there 👋
@@ -15,8 +14,6 @@ I believe that deep down, we all carry a little sadness with us, even if it's hi
 
 ### 🛠️ Personal Projects
 
-None for now, but I'm definitely interested in building something personal with **Flutter**—perhaps a feature-rich app that reflects my interests. CMSC 23 was fun (even if tedious at times), and I'd love to apply what I learned!
-
 ---
 
 ### 💻 Known Programming Languages
@@ -26,15 +23,12 @@ None for now, but I'm definitely interested in building something personal with 
 - **Python**
 - **Java**
 
-_**Disclaimer:** Knowing ≠ being good at it 🤷‍♂️_
-
 ---
 
 ### 🎯 Hobbies
 
 - 🏊‍♂️ Swimming
 - 🔧 Tinkering with hardware/electronics
-- 🌐 Exploring browser extensions
 
 I tend to forget my hobbies when asked, so I'll update this as I remember more. But one thing's for sure—if I had unlimited money, I'd definitely be collecting shoes (especially comfy ones 🥿).
 
